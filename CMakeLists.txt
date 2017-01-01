@@ -13,4 +13,4 @@ project(groot_icons)
 # Installs
 ##############################################################################
 
-install(DIRECTORY bubble DESTINATION ${CMAKE_INSTALL_PREFIX}/media/icons)
+install(DIRECTORY bubble DESTINATION ${CMAKE_INSTALL_PREFIX}/share/media/icons)
