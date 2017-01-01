@@ -1,2 +1,3 @@
-# groot_icons
+# Groot icons
+
 Collection of useful icons.
