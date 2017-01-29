@@ -4,11 +4,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 ### Added
-- [avatars] first release of avatar icons
+- ...
 
-## [0.1.3] - 2017-
 ### Changed
-- [infra] shift installation to `share/groot_icons`
+- ...
+
+## [0.2.0] - 2017-01-29
+### Changed
+- [avatars] first release of avatar icons
 
 ## [0.1.2] - 2017-01-02
 ### Changed
