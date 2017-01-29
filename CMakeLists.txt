@@ -13,4 +13,5 @@ project(groot_icons)
 # Installs
 ##############################################################################
 
+install(DIRECTORY avatars DESTINATION ${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME})
 install(DIRECTORY bubble DESTINATION ${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME})
