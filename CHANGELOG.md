@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - ...
 
 ### Changed
+- [bubble] eclipse
 - ...
 
 ## [0.2.0] - 2017-01-29
